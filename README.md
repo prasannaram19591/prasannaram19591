@@ -1,7 +1,7 @@
-- 👋 Hi, I’m PrasannaRam
-- 👀 I’m interested in automation using linux shell and python
-- 🌱 I’m currently learning ansible and ceph
-- 💞️ I’m looking to collaborate on shell scripting
+- 👋 Hi, I’m Prasanna Ram. Storage/Backup/Devops Expert.
+- 👀 I’m interested in automation using shell/python/ansible.
+- 🌱 I’m currently learning API creation and terraform.
+- 💞️ I’m looking to collaborate on scripting.
 - 📫 Reach me at my mail ramanathan19591@gmail.com
 
 <!---
